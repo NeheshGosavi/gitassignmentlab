@@ -1,3 +1,4 @@
 nehesh Gosavi
 Major=CSE
 my favrite restaurant=skyhigh
+my favrite color= blue
