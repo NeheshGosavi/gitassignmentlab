@@ -1,2 +1,2 @@
 nehesh Gosavi
-BT21CSE034
+Major=CSE
