@@ -1,0 +1,110 @@
+commit b3b5d90c40ddc28de3333dca3f9f74a45b43c9cc
+Author: nehesh <neheshgosavi3112@gmail.com>
+Date:   Sat Mar 11 16:29:38 2023 +0530
+
+    Re-adding file2.txt
+
+diff --git a/poem2.txt b/poem2.txt
+new file mode 100644
+index 0000000..741df86
+--- /dev/null
++++ b/poem2.txt
+@@ -0,0 +1,2 @@
++graduation year 2025
++post=Software developer @microsoft
+\ No newline at end of file
+
+commit b7051807b9d1195cf1cf4cdf45fe696131cfbf1e
+Author: nehesh <neheshgosavi3112@gmail.com>
+Date:   Sat Mar 11 16:17:23 2023 +0530
+
+    Deleting file2.txt
+
+diff --git a/poem.txt b/poem.txt
+index 7f29fd5..2c428ec 100644
+--- a/poem.txt
++++ b/poem.txt
+@@ -1,3 +1,4 @@
+ nehesh Gosavi
+ Major=CSE
+-my favrite restaurant=skyhigh
+\ No newline at end of file
++my favrite restaurant=skyhigh
++my favrite color= blue
+\ No newline at end of file
+diff --git a/poem2.txt b/poem2.txt
+deleted file mode 100644
+index 741df86..0000000
+--- a/poem2.txt
++++ /dev/null
+@@ -1,2 +0,0 @@
+-graduation year 2025
+-post=Software developer @microsoft
+\ No newline at end of file
+
+commit 3a799a085758aaefc6d724f323e6e8e5dbb36158
+Author: nehesh <neheshgosavi3112@gmail.com>
+Date:   Sat Mar 11 16:13:12 2023 +0530
+
+    added a file of graduation year and post
+
+diff --git a/poem2.txt b/poem2.txt
+new file mode 100644
+index 0000000..741df86
+--- /dev/null
++++ b/poem2.txt
+@@ -0,0 +1,2 @@
++graduation year 2025
++post=Software developer @microsoft
+\ No newline at end of file
+
+commit d156926911b36ec0d0213d48147832fcc58b24b5
+Author: nehesh <neheshgosavi3112@gmail.com>
+Date:   Sat Mar 11 15:52:15 2023 +0530
+
+    Added favourite restaurant but not movie
+
+diff --git a/poem.txt b/poem.txt
+index 0b30279..7f29fd5 100644
+--- a/poem.txt
++++ b/poem.txt
+@@ -1,2 +1,3 @@
+ nehesh Gosavi
+-Major=CSE
+\ No newline at end of file
++Major=CSE
++my favrite restaurant=skyhigh
+\ No newline at end of file
+
+commit 787788397167d26ad0ecf3b09d848f12722f1e92
+Author: nehesh <neheshgosavi3112@gmail.com>
+Date:   Sat Mar 11 15:49:38 2023 +0530
+
+    Now has my major
+
+diff --git a/poem.txt b/poem.txt
+index 7c5482a..0b30279 100644
+--- a/poem.txt
++++ b/poem.txt
+@@ -1,2 +1,2 @@
+ nehesh Gosavi
+-BT21CSE034
+\ No newline at end of file
++Major=CSE
+\ No newline at end of file
+
+commit f3159cf709f48c2843bf014383ca4841f2a82f8b
+Author: nehesh <neheshgosavi3112@gmail.com>
+Date:   Sat Mar 11 15:45:28 2023 +0530
+
+    Committing a new file with my name
+
+diff --git a/poem.txt b/poem.txt
+new file mode 100644
+index 0000000..7c5482a
+--- /dev/null
++++ b/poem.txt
+@@ -0,0 +1,2 @@
++nehesh Gosavi
++BT21CSE034
+\ No newline at end of file
